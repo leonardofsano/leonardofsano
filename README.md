@@ -7,7 +7,6 @@ Me chamo Leonardo, tenho 18 anos e sou um Desenvolvedor Web em inicio de carreir
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardofsano&theme=react&show_icons=true&locale=pt-br)](https://github.com/leonardofsano)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofsano&theme=react&locale=pt-br)
 
 ### 🌐 Linguagens
 <div style="display: inline_block"><br>
